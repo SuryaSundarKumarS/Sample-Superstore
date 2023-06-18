@@ -1,5 +1,5 @@
 # Sample-Superstore
- Interact with the dashboard ()
+ Interact with the dashboard (https://www.novypro.com/project/sample-superstore-power-bi)
 
 - This project highlights my ability to use data visualization and analytics tools to identify key insights and provide actionable recommendations.
 - Superstore Analysis aim to provide insight into how best to increase sales and reach goals. The objective is to monitor how many orderss placed and improve customer satisfaction. 
