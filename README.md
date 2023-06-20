@@ -39,7 +39,7 @@ Power BI Dashboard Visualization:
 
 3)For quantity it was the same for top states and cities but for the bottom cities and states it was different. Like we are delivering less quantity but getting good profits but when we are delivering more quantity we are getting less profits.
 
-4)Cities and state which are generating less revenue are have less than 2 ship modes.
+4)Cities and state which are generating less revenue are have using less than 2 ship modes.
 
 5)These cities and states choose 2 ship modes the major one is Second Class and the other is Standard Class.
 
